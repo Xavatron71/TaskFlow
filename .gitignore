@@ -1,0 +1,18 @@
+# Python Caches & Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local Database Files
+*.db
+*.sqlite3
+
+# PyInstaller Outputs
+build/
+dist/
+*.spec
+
+# Editor Configurations
+.vscode/
+.idea/
